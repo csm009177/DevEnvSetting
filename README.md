@@ -24,3 +24,11 @@
 - -y 옵션은 모든 질문에 yes라고 대답한다는 뜻
 - npm init을 하면 package.json이라는 파일이 생긴다.
 - entry point는 app.js로 설정 정상적으로 되어있는지 확인
+
+3. debugger 설치
+  
+- windowsOS : ctrl + shift + D
+- MacOS : cmd + shift + D
+
+- 개인별 시스템에 맞추어 launch.json 파일을 만든다.
+- 디버거 정상 작동하는지 확인
